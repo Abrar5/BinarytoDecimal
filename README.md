@@ -1,3 +1,5 @@
 # BinarytoDecimal
 
- <video src="BinarytoDecimal.mov" width=200 length= 200>
+<video width="400" controls autoplay>
+    <source src="D:/BinarytoDecimal" type="video/mp4">
+</video>
